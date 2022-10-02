@@ -1,13 +1,18 @@
 # Astrohacker_NebulosaF5
 
-Grupo-Pulmon-Lung
+Team: Nebulosa F5
 
-Grupo Pulmón, Group of Lung Members: Anghi, Rebeca, Mayra, Ana, Chen
+Members: Chantell, Alexandra, Pablo y Raúl
 
-Planteamiento
+![Logo](https://user-images.githubusercontent.com/109469745/193451254-c54406fe-7d78-4e95-b459-99428d6b8bfb.png)
 
-El hospital F5 lleva un tiempo recogiendo datos cruzados que relacionan diversos indicadores de la vida y estado de salud de algunos pacientes frente a la variable de si han sufrido un ictus o no lo han hecho.
 
-Ahora han puesto esos datos en manos del departamento de análisis de datos para elaborar un prototipo de programa con inteligencia artificial que de manera desatendida y como criba previa a una consulta con doctor pida por línea de comandos los datos necesarios y devuelva por un lado si el paciente está en riesgo de sufrir un ictus.
+Project summary
 
-Para validar el proyecto, será necesario también un informe de su rendimiento.
+We developed a game wicht is a simulation based on a trip to space, there users will face the diferent problems that the astromauts could suffer on their
+travels. In doing so we want to aproach the user to the NASA enviroment and peak their interest on space related matters in hope of creating a new
+relationship with people who have never shown interest in the matters. We are triying to design a platform that allows users to explore space travel
+stresses and learn how NASA is solving them and how they are developing new experiments with diverse organisms for the development of new or better 
+solutions for these problems. From our point is paramount to make it accesible to newcommers and youth.
+
+Link Prototipo Figma: https://www.figma.com/file/5msjHMnEPC0nhA7Ux4gu3Y/Untitled?node-id=0%3A1
